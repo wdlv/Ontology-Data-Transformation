@@ -1,3 +1,5 @@
+Results from Console:
+
 Triple Example: http://www.radlex.org/RID/#SNOMED_Term
 ('RID29048', 'http://www.radlex.org/RID/#SNOMED_Term', 'horizontal long axis')
 ('RID29047', 'http://www.radlex.org/RID/#SNOMED_Term', 'Base of heart')
