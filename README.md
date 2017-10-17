@@ -1,7 +1,7 @@
 ## Ontology_Data_Transformation
 
 # Environment Requirement:
-Python 3.6<br/>  pandas  sqlite3 nltk  rdflib
+Python 3.6<br/>  pandas<br/>  sqlite3<br/> nltk<br/>  rdflib
 
 # Introduction
 
@@ -19,11 +19,11 @@ Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, To
 
 One Radiology example:
 
-http://www.radlex.org/RID/#RID3441
-reflux esophagitis
-Refluxösophagitis
-inflammation of the esophagus that is caused by the reflux of gastric juice with contents of the stomach and duodenum. [MeSH]
-RID0
+http://www.radlex.org/RID/#RID3441<br/>
+reflux esophagitis<br/>
+Refluxösophagitis<br/>
+inflammation of the esophagus that is caused by the reflux of gastric juice with contents of the stomach and duodenum. [MeSH]<br/>
+RID0<br/>
 reflux esophag
 
 
