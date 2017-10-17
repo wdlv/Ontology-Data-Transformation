@@ -7,7 +7,7 @@ Python 3.6<br/>  pandas<br/>  sqlite3<br/> nltk<br/>  rdflib
 
 ### 1. rdf2csv.py
 
-This script is to transform rdf,xrdf format data into csv and print out all the unique predicates along with their examples. In general, different ontology might use different predicates to represent the same relationship. So it is quite important for us to find out corresponding predicates for our desired ontology. Predicate examples could be found in the Radiology Lexicon Predicates and Examples.txt
+This script is to transform rdf,xrdf format data into csv and print out all the unique predicates along with their examples. In general, different ontology might use different predicates to represent the same relationship. So it is quite important for us to find out corresponding predicates for our desired ontology. Examples could be found in the Radiology Lexicon Predicates and Examples.txt
 
 ### 2. csv2sqlDB.py
 
