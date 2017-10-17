@@ -1,15 +1,7 @@
 ## Ontology_Data_Transformation
 
 # Environment Requirement:
-Python 3.6
-
-pandas
-
-sqlite3
-
-nltk
-
-rdflib
+Python 3.6  pandas  sqlite3 nltk  rdflib
 
 # Introduction
 
@@ -24,5 +16,14 @@ This script is to transform triples following the standard of SKOS(The Simple Kn
 SQL Database here has three tables - Concept, Broaders, Related.
 
 Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, TopConcept, NormPrefLabel
+
+One Radiology example:
+
+http://www.radlex.org/RID/#RID3441
+reflux esophagitis
+Refluxösophagitis
+inflammation of the esophagus that is caused by the reflux of gastric juice with contents of the stomach and duodenum. [MeSH]
+RID0
+reflux esophag
 
 
