@@ -17,7 +17,7 @@ SQL Database here has three tables - Concept, Broaders, Related.
 
 Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, TopConcept, NormPrefLabel
 
-One Radiology example:
+# One Radiology example in the Concept table:
 
 http://www.radlex.org/RID/#RID3441<br/>
 reflux esophagitis<br/>
