@@ -1,0 +1,503 @@
+Triple Example: http://www.radlex.org/RID/#SNOMED_Term
+('RID29048', 'http://www.radlex.org/RID/#SNOMED_Term', 'horizontal long axis')
+('RID29047', 'http://www.radlex.org/RID/#SNOMED_Term', 'Base of heart')
+('RID38604', 'http://www.radlex.org/RID/#SNOMED_Term', 'Cerebrovascular disease')
+******************
+
+Triple Example: http://www.w3.org/2000/01/rdf-schema#subClassOf
+('RID6120', 'http://www.w3.org/2000/01/rdf-schema#subClassOf', 'RID34541')
+('RID36673', 'http://www.w3.org/2000/01/rdf-schema#subClassOf', 'RID36003')
+('RID25204', 'http://www.w3.org/2000/01/rdf-schema#subClassOf', 'RID15858')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Last_changes_to_class
+('RID13763', 'http://www.radlex.org/RID/#Last_changes_to_class', 'loc')
+('RID11100', 'http://www.radlex.org/RID/#Last_changes_to_class', 'loc')
+('RID49993', 'http://www.radlex.org/RID/#Last_changes_to_class', 'new')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Innervates
+('RID43780', 'http://www.radlex.org/RID/#Innervates', 'RID43182')
+('RID7278', 'http://www.radlex.org/RID/#Innervates', 'RID2358')
+('RID20027', 'http://www.radlex.org/RID/#Innervates', 'RID42397')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Bounded_by
+('RID39971', 'http://www.radlex.org/RID/#Bounded_by', 'RID42075')
+('RID1879', 'http://www.radlex.org/RID/#Bounded_by', 'RID42199')
+('RID40139', 'http://www.radlex.org/RID/#Bounded_by', 'RID42196')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Segment_Of
+('RID605', 'http://www.radlex.org/RID/#Segment_Of', 'RID585')
+('RID588', 'http://www.radlex.org/RID/#Segment_Of', 'RID585')
+('RID786', 'http://www.radlex.org/RID/#Segment_Of', 'RID779')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Projects_From
+('RID34518', 'http://www.radlex.org/RID/#Projects_From', 'RID7012')
+('RID34085', 'http://www.radlex.org/RID/#Projects_From', 'RID25953')
+('RID19630', 'http://www.radlex.org/RID/#Projects_From', 'RID26031')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Synonym
+('RID2682', 'http://www.radlex.org/RID/#Synonym', 'Laterale Femurepikondyle')
+('RID6968', 'http://www.radlex.org/RID/#Synonym', 'tractus spinocerebellaris anterior')
+('RID3560', 'http://www.radlex.org/RID/#Synonym', 'Arthrosis deformans')
+******************
+
+Triple Example: http://www.w3.org/2000/01/rdf-schema#label
+('RID36087', 'http://www.w3.org/2000/01/rdf-schema#label', 'RID36087')
+('RID17164', 'http://www.w3.org/2000/01/rdf-schema#label', 'RID17164')
+('RID18950', 'http://www.w3.org/2000/01/rdf-schema#label', 'RID18950')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Branch_Part_of
+('RID44803', 'http://www.radlex.org/RID/#Branch_Part_of', 'RID44770')
+('RID18206', 'http://www.radlex.org/RID/#Branch_Part_of', 'RID14987')
+('RID25334', 'http://www.radlex.org/RID/#Branch_Part_of', 'RID23315')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Is_A
+('RID17634', 'http://www.radlex.org/RID/#Is_A', 'RID6974')
+('RID43198', 'http://www.radlex.org/RID/#Is_A', 'RID43191')
+('RID12146', 'http://www.radlex.org/RID/#Is_A', 'RID19941')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Source
+('RID35669', 'http://www.radlex.org/RID/#Source', 'Radiology 2001; 220:68-69')
+('RID35970', 'http://www.radlex.org/RID/#Source', 'Playbook')
+('RID35290', 'http://www.radlex.org/RID/#Source', 'Radiology 2003; 226:556-557')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_insertion
+('RID43081', 'http://www.radlex.org/RID/#Has_insertion', 'RID41017')
+('RID43000', 'http://www.radlex.org/RID/#Has_insertion', 'RID1973')
+('RID43205', 'http://www.radlex.org/RID/#Has_insertion', 'RID2110')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Constitutional_Part_Of
+('RID31896', 'http://www.radlex.org/RID/#Constitutional_Part_Of', 'RID32878')
+('RID43888', 'http://www.radlex.org/RID/#Constitutional_Part_Of', 'RID43045')
+('RID47694', 'http://www.radlex.org/RID/#Constitutional_Part_Of', 'RID47996')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Lymphatic_Drainage_Of
+('RID29678', 'http://www.radlex.org/RID/#Lymphatic_Drainage_Of', 'RID161')
+('RID29676', 'http://www.radlex.org/RID/#Lymphatic_Drainage_Of', 'RID152')
+('RID30801', 'http://www.radlex.org/RID/#Lymphatic_Drainage_Of', 'RID29782')
+******************
+
+Triple Example: http://www.radlex.org/RID/#JHU_White-Matter_Tractography_Atlas
+('RID19631', 'http://www.radlex.org/RID/#JHU_White-Matter_Tractography_Atlas', 'Inferior longitudinal fasciculus L')
+('RID19634', 'http://www.radlex.org/RID/#JHU_White-Matter_Tractography_Atlas', 'Inferior fronto-occipital fasciculus L')
+('RID19626', 'http://www.radlex.org/RID/#JHU_White-Matter_Tractography_Atlas', 'Cingulum (cingulate gyrus) R')
+******************
+
+Triple Example: http://www.radlex.org/RID/#name
+('http://www.radlex.org/RID/RadLex_Class286413', 'http://www.radlex.org/RID/#name', 'Tractus dorsolateralis medullae spinalis')
+('http://www.radlex.org/RID/radlex2.1_Class14410', 'http://www.radlex.org/RID/#name', 'comparison entity')
+('http://www.radlex.org/RID/radlex2.1_Class43851', 'http://www.radlex.org/RID/#name', 'Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Version_of_last_change
+('RID7611', 'http://www.radlex.org/RID/#Version_of_last_change', '3.14')
+('RID34380', 'http://www.radlex.org/RID/#Version_of_last_change', '07/07/2014')
+('RID13098', 'http://www.radlex.org/RID/#Version_of_last_change', '3.14')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Sends_Output_To
+('RID20874', 'http://www.radlex.org/RID/#Sends_Output_To', 'RID6669')
+('RID21122', 'http://www.radlex.org/RID/#Sends_Output_To', 'RID7361')
+('RID31972', 'http://www.radlex.org/RID/#Sends_Output_To', 'RID31998')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Regional_Part
+('RID14460', 'http://www.radlex.org/RID/#Has_Regional_Part', 'RID14464')
+('RID19716', 'http://www.radlex.org/RID/#Has_Regional_Part', 'RID18749')
+('RID40750', 'http://www.radlex.org/RID/#Has_Regional_Part', 'RID46624')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Preferred_name
+('RID3188', 'http://www.radlex.org/RID/#Preferred_name', 'extensor hallucis longus tendon')
+('RID41269', 'http://www.radlex.org/RID/#Preferred_name', 'tendon of right longus colli')
+('RID25366', 'http://www.radlex.org/RID/#Preferred_name', 'nerve to first interspinalis lumborum')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Blood_Supply_of
+('RID13084', 'http://www.radlex.org/RID/#Blood_Supply_of', 'RID175')
+('RID921', 'http://www.radlex.org/RID/#Blood_Supply_of', 'RID86')
+('RID934', 'http://www.radlex.org/RID/#Blood_Supply_of', 'RID154')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Continuous_With
+('RID22777', 'http://www.radlex.org/RID/#Continuous_With', 'RID23114')
+('RID14311', 'http://www.radlex.org/RID/#Continuous_With', 'RID14316')
+('RID40776', 'http://www.radlex.org/RID/#Continuous_With', 'RID40825')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Definition
+('RID50142', 'http://www.radlex.org/RID/#Definition', 'A finding that requires non-routine communication with the referring clinician, such as a supplemental finding noted for referring physician follow up.')
+('RID29989', 'http://www.radlex.org/RID/#Definition', 'Subdivision of abdomen which is demarcated from the pelvis by the plane of the superior pelvic aperture. Examples: There is only one abdomen proper.')
+('RID35526', 'http://www.radlex.org/RID/#Definition', 'Thick, wavy lucenct tract with sclerotic border in contact with epiphyseal plate extending from a metaphyseal abscess. Suggests subacute osteomyelitis; infection spreads from metaphysis to surface of bone rather than passing through growth plate.')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Related_modality
+('RID35395', 'http://www.radlex.org/RID/#Related_modality', 'RID10345')
+('RID35706', 'http://www.radlex.org/RID/#Related_modality', 'RID10345')
+('RID35614', 'http://www.radlex.org/RID/#Related_modality', 'RID10326')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Constitutional_Part
+('RID13127', 'http://www.radlex.org/RID/#Has_Constitutional_Part', 'RID36814')
+('RID7062', 'http://www.radlex.org/RID/#Has_Constitutional_Part', 'RID37115')
+('RID6681', 'http://www.radlex.org/RID/#Has_Constitutional_Part', 'RID20748')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Term_Status
+('RID5966', 'http://www.radlex.org/RID/#Term_Status', 'Retired')
+('RID12616', 'http://www.radlex.org/RID/#Term_Status', 'Retired')
+('RID12857', 'http://www.radlex.org/RID/#Term_Status', 'Retired')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Branch_Of
+('RID24401', 'http://www.radlex.org/RID/#Branch_Of', 'RID23986')
+('RID14570', 'http://www.radlex.org/RID/#Branch_Of', 'RID14548')
+('RID14484', 'http://www.radlex.org/RID/#Branch_Of', 'RID12139')
+******************
+
+Triple Example: http://www.radlex.org/RID/#UMLS_Term
+('RID10053', 'http://www.radlex.org/RID/#UMLS_Term', 'ear')
+('RID11772', 'http://www.radlex.org/RID/#UMLS_Term', 'carbon')
+('RID2662', 'http://www.radlex.org/RID/#UMLS_Term', 'femur')
+******************
+
+Triple Example: http://www.radlex.org/RID/#May_Cause
+('RID28506', 'http://www.radlex.org/RID/#May_Cause', 'RID35681')
+('RID34640', 'http://www.radlex.org/RID/#May_Cause', 'RID35090')
+('RID3957', 'http://www.radlex.org/RID/#May_Cause', 'RID35613')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Anatomical_Site
+('RID4952', 'http://www.radlex.org/RID/#Anatomical_Site', 'RID9573')
+('RID34712', 'http://www.radlex.org/RID/#Anatomical_Site', 'RID58')
+('RID35138', 'http://www.radlex.org/RID/#Anatomical_Site', 'RID5963')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Branch_Part
+('RID44864', 'http://www.radlex.org/RID/#Has_Branch_Part', 'RID44878')
+('RID44843', 'http://www.radlex.org/RID/#Has_Branch_Part', 'RID44851')
+('RID22788', 'http://www.radlex.org/RID/#Has_Branch_Part', 'RID23195')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Bounds
+('RID39590', 'http://www.radlex.org/RID/#Bounds', 'RID41743')
+('RID42074', 'http://www.radlex.org/RID/#Bounds', 'RID39970')
+('RID42078', 'http://www.radlex.org/RID/#Bounds', 'RID39974')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Attaches_to
+('RID43848', 'http://www.radlex.org/RID/#Attaches_to', 'RID49177')
+('RID41115', 'http://www.radlex.org/RID/#Attaches_to', 'RID43190')
+('RID1936', 'http://www.radlex.org/RID/#Attaches_to', 'RID1983')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Contained_In
+('RID48222', 'http://www.radlex.org/RID/#Contained_In', 'RID48509')
+('RID1549', 'http://www.radlex.org/RID/#Contained_In', 'RID30677')
+('RID9961', 'http://www.radlex.org/RID/#Contained_In', 'RID9954')
+******************
+
+Triple Example: http://www.radlex.org/RID/#May_Be_Caused_By
+('RID35475', 'http://www.radlex.org/RID/#May_Be_Caused_By', 'RID3874')
+('RID35228', 'http://www.radlex.org/RID/#May_Be_Caused_By', 'RID4134')
+('RID35083', 'http://www.radlex.org/RID/#May_Be_Caused_By', 'RID34633')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Created_mm_dd_yyyy
+('RID50171', 'http://www.radlex.org/RID/#Created_mm_dd_yyyy', '11/11.2016')
+('RID50152', 'http://www.radlex.org/RID/#Created_mm_dd_yyyy', '11/01/2016')
+('RID50080', 'http://www.radlex.org/RID/#Created_mm_dd_yyyy', '09/29/2016')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Drains_Into
+('RID31985', 'http://www.radlex.org/RID/#Drains_Into', 'RID31991')
+('RID31948', 'http://www.radlex.org/RID/#Drains_Into', 'RID31945')
+('RID31921', 'http://www.radlex.org/RID/#Drains_Into', 'RID31941')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Tributary_Of
+('RID1028', 'http://www.radlex.org/RID/#Tributary_Of', 'RID1024')
+('RID1197', 'http://www.radlex.org/RID/#Tributary_Of', 'RID1199')
+('RID1025', 'http://www.radlex.org/RID/#Tributary_Of', 'RID1024')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Part
+('RID47897', 'http://www.radlex.org/RID/#Has_Part', 'RID46499')
+('RID49359', 'http://www.radlex.org/RID/#Has_Part', 'RID48574')
+('RID7331', 'http://www.radlex.org/RID/#Has_Part', 'RID28006')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Talairach
+('RID17125', 'http://www.radlex.org/RID/#Talairach', 'Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.White Matter.*')
+('RID26524', 'http://www.radlex.org/RID/#Talairach', 'Left Cerebrum.Frontal Lobe.Orbital Gyrus.*.*')
+('RID36637', 'http://www.radlex.org/RID/#Talairach', 'Left Cerebrum.Sub-lobar.Extra-Nuclear.*.*')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Innervation_Source
+('RID43136', 'http://www.radlex.org/RID/#Has_Innervation_Source', 'RID15152')
+('RID1997', 'http://www.radlex.org/RID/#Has_Innervation_Source', 'RID14955')
+('RID2160', 'http://www.radlex.org/RID/#Has_Innervation_Source', 'RID7247')
+******************
+
+Triple Example: http://www.w3.org/2000/01/rdf-schema#subPropertyOf
+('Branch_Part_of', 'http://www.w3.org/2000/01/rdf-schema#subPropertyOf', 'Regional_Part_Of')
+('Has_Regional_Part', 'http://www.w3.org/2000/01/rdf-schema#subPropertyOf', 'Has_Part')
+('Constitutional_Part_Of', 'http://www.w3.org/2000/01/rdf-schema#subPropertyOf', 'Part_Of')
+******************
+
+Triple Example: http://www.radlex.org/RID/#FMAID
+('RID31906', 'http://www.radlex.org/RID/#FMAID', '71775')
+('RID32453', 'http://www.radlex.org/RID/#FMAID', '81506')
+('RID14565', 'http://www.radlex.org/RID/#FMAID', '82654')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Image_URL
+('RID29173', 'http://www.radlex.org/RID/#Image_URL', 'https://www.stanford.edu/group/rubin_lab/radlex_images/circumscribed_mass.jpg')
+('RID29173', 'http://www.radlex.org/RID/#Image_URL', 'https://www.stanford.edu/group/rubin_lab/radlex_images/popcorn_calcifation_circumscribed_mass.jpg')
+('RID29173', 'http://www.radlex.org/RID/#Image_URL', 'https://www.stanford.edu/group/rubin_lab/radlex_images/spiculated_mass.jpg')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Comment
+('RID14063', 'http://www.radlex.org/RID/#Comment', 'subdivision of middle frontal gyrus \nduplicate of RID33809')
+('RID12904', 'http://www.radlex.org/RID/#Comment', 'Was used as an instance-level  slot for a procedure; not needed')
+('RID6553', 'http://www.radlex.org/RID/#Comment', 'duplicate')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Surrounded_by
+('RID43549', 'http://www.radlex.org/RID/#Surrounded_by', 'RID347')
+('RID43552', 'http://www.radlex.org/RID/#Surrounded_by', 'RID43481')
+('RID43552', 'http://www.radlex.org/RID/#Surrounded_by', 'RID348')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Superior_to
+('RID240', 'http://www.radlex.org/RID/#Superior_to', 'RID38894')
+('RID38953', 'http://www.radlex.org/RID/#Superior_to', 'RID38954')
+('RID38954', 'http://www.radlex.org/RID/#Superior_to', 'RID38955')
+******************
+
+Triple Example: http://www.radlex.org/RID/#SNOMED_ID
+('RID29047', 'http://www.radlex.org/RID/#SNOMED_ID', 'T-32003')
+('RID29049', 'http://www.radlex.org/RID/#SNOMED_ID', 'G-A18A')
+('RID46038', 'http://www.radlex.org/RID/#SNOMED_ID', '205465004')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Origin_of
+('RID49306', 'http://www.radlex.org/RID/#Origin_of', 'RID48968')
+('RID40141', 'http://www.radlex.org/RID/#Origin_of', 'RID43064')
+('RID40074', 'http://www.radlex.org/RID/#Origin_of', 'RID40835')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Receives_attachment_from
+('RID48290', 'http://www.radlex.org/RID/#Receives_attachment_from', 'RID2776')
+('RID49170', 'http://www.radlex.org/RID/#Receives_attachment_from', 'RID43868')
+('RID41738', 'http://www.radlex.org/RID/#Receives_attachment_from', 'RID41468')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Blood_Supply
+('RID151', 'http://www.radlex.org/RID/#Has_Blood_Supply', 'RID934')
+('RID71', 'http://www.radlex.org/RID/#Has_Blood_Supply', 'RID917')
+('RID175', 'http://www.radlex.org/RID/#Has_Blood_Supply', 'RID13084')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Distal_to
+('RID47585', 'http://www.radlex.org/RID/#Distal_to', 'RID47588')
+('RID47698', 'http://www.radlex.org/RID/#Distal_to', 'RID47707')
+('RID47491', 'http://www.radlex.org/RID/#Distal_to', 'RID47497')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Receives_Drainage_From
+('RID31982', 'http://www.radlex.org/RID/#Receives_Drainage_From', 'RID31981')
+('RID31913', 'http://www.radlex.org/RID/#Receives_Drainage_From', 'RID31972')
+('RID31944', 'http://www.radlex.org/RID/#Receives_Drainage_From', 'RID31950')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Surrounds
+('RID347', 'http://www.radlex.org/RID/#Surrounds', 'RID38955')
+('RID347', 'http://www.radlex.org/RID/#Surrounds', 'RID43549')
+('RID348', 'http://www.radlex.org/RID/#Surrounds', 'RID43553')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Freesurfer
+('RID17160', 'http://www.radlex.org/RID/#Freesurfer', 'wm-lh-posteriorcingulate')
+('RID13803', 'http://www.radlex.org/RID/#Freesurfer', 'Left-Inf-Lat-Vent')
+('RID17198', 'http://www.radlex.org/RID/#Freesurfer', 'wm-rh-caudalmiddlefrontal')
+******************
+
+Triple Example: http://www.w3.org/2002/07/owl#inverseOf
+('Has_Regional_Part', 'http://www.w3.org/2002/07/owl#inverseOf', 'Regional_Part_Of')
+('Constitutional_Part_Of', 'http://www.w3.org/2002/07/owl#inverseOf', 'Has_Constitutional_Part')
+('Lymphatic_Drainage', 'http://www.w3.org/2002/07/owl#inverseOf', 'Lymphatic_Drainage_Of')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Inferior_to
+('RID38955', 'http://www.radlex.org/RID/#Inferior_to', 'RID38954')
+('RID38894', 'http://www.radlex.org/RID/#Inferior_to', 'RID240')
+('RID347', 'http://www.radlex.org/RID/#Inferior_to', 'RID348')
+******************
+
+Triple Example: http://www.w3.org/2000/01/rdf-schema#range
+('Talairach', 'http://www.w3.org/2000/01/rdf-schema#range', 'string')
+('Freesurfer', 'http://www.w3.org/2000/01/rdf-schema#range', 'string')
+('SNOMED_ID', 'http://www.w3.org/2000/01/rdf-schema#range', 'string')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Contains
+('RID9967', 'http://www.radlex.org/RID/#Contains', 'RID9969')
+('RID48511', 'http://www.radlex.org/RID/#Contains', 'RID48224')
+('RID48529', 'http://www.radlex.org/RID/#Contains', 'RID48475')
+******************
+
+Triple Example: http://www.radlex.org/RID/#JHU_DTI-81
+('RID17893', 'http://www.radlex.org/RID/#JHU_DTI-81', 'Corticospinal tract L')
+('RID34069', 'http://www.radlex.org/RID/#JHU_DTI-81', 'Cerebral peduncle L')
+('RID19634', 'http://www.radlex.org/RID/#JHU_DTI-81', 'Inferior fronto-occipital fasciculus L')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Receives_Input_From
+('RID20964', 'http://www.radlex.org/RID/#Receives_Input_From', 'RID28445')
+('RID6784', 'http://www.radlex.org/RID/#Receives_Input_From', 'RID21110')
+('RID6595', 'http://www.radlex.org/RID/#Receives_Input_From', 'RID6717')
+******************
+
+Triple Example: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+('RID46398', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'Class')
+('RID10445', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'NamedIndividual')
+('RID29139', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 'pathophysiology_metaclass')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Preferred_Name_for_Obsolete
+('RID28845', 'http://www.radlex.org/RID/#Preferred_Name_for_Obsolete', 'xray imaging procedure')
+('RID12586', 'http://www.radlex.org/RID/#Preferred_Name_for_Obsolete', 'collimator used')
+('RID2490', 'http://www.radlex.org/RID/#Preferred_Name_for_Obsolete', 'internal oblique muscle')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Member_Of
+('RID971', 'http://www.radlex.org/RID/#Member_Of', 'RID49636')
+('RID12043', 'http://www.radlex.org/RID/#Member_Of', 'RID13190')
+('RID2193', 'http://www.radlex.org/RID/#Member_Of', 'RID35800')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Proximal_to
+('RID22055', 'http://www.radlex.org/RID/#Proximal_to', 'RID14949')
+('RID47800', 'http://www.radlex.org/RID/#Proximal_to', 'RID47788')
+('RID46976', 'http://www.radlex.org/RID/#Proximal_to', 'RID46979')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Subtype
+('RID13684', 'http://www.radlex.org/RID/#Has_Subtype', 'RID13686')
+('RID25736', 'http://www.radlex.org/RID/#Has_Subtype', 'RID25739')
+('RID7315', 'http://www.radlex.org/RID/#Has_Subtype', 'RID15322')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Receives_Projection_From
+('RID3', 'http://www.radlex.org/RID/#Receives_Projection_From', 'RID19632')
+('RID25958', 'http://www.radlex.org/RID/#Receives_Projection_From', 'RID34084')
+('RID25822', 'http://www.radlex.org/RID/#Receives_Projection_From', 'RID34090')
+******************
+
+Triple Example: http://www.radlex.org/RID/#CMA_Label
+('RID34175', 'http://www.radlex.org/RID/#CMA_Label', 'SCLC')
+('RID20407', 'http://www.radlex.org/RID/#CMA_Label', 'FP')
+('RID14000', 'http://www.radlex.org/RID/#CMA_Label', 'T3a')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Lymphatic_Drainage
+('RID116', 'http://www.radlex.org/RID/#Lymphatic_Drainage', 'RID29691')
+('RID29245', 'http://www.radlex.org/RID/#Lymphatic_Drainage', 'RID29704')
+('RID116', 'http://www.radlex.org/RID/#Lymphatic_Drainage', 'RID29684')
+******************
+
+Triple Example: http://www.radlex.org/RID/#UMLS_ID
+('RID5121', 'http://www.radlex.org/RID/#UMLS_ID', 'C0038013')
+('RID962', 'http://www.radlex.org/RID/#UMLS_ID', 'C0032649')
+('RID4839', 'http://www.radlex.org/RID/#UMLS_ID', 'C0013928')
+******************
+
+Triple Example: http://data.bioontology.org/metadata/prefixIRI
+('RID28696', 'http://data.bioontology.org/metadata/prefixIRI', 'RID28696')
+('RID2811', 'http://data.bioontology.org/metadata/prefixIRI', 'RID2811')
+('RID42035', 'http://data.bioontology.org/metadata/prefixIRI', 'RID42035')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Branch
+('RID7353', 'http://www.radlex.org/RID/#Has_Branch', 'RID7354')
+('RID23293', 'http://www.radlex.org/RID/#Has_Branch', 'RID25281')
+('RID25523', 'http://www.radlex.org/RID/#Has_Branch', 'RID25545')
+******************
+
+Triple Example: http://www.radlex.org/RID/#AAL
+('RID26541', 'http://www.radlex.org/RID/#AAL', 'Fusiform_LEFT')
+('RID21014', 'http://www.radlex.org/RID/#AAL', 'Putamen_RIGHT')
+('RID26542', 'http://www.radlex.org/RID/#AAL', 'Heschl_RIGHT')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Part_Of
+('RID25948', 'http://www.radlex.org/RID/#Part_Of', 'RID25817')
+('RID47090', 'http://www.radlex.org/RID/#Part_Of', 'RID47146')
+('RID15145', 'http://www.radlex.org/RID/#Part_Of', 'RID15100')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Replaced_by
+('RID39181', 'http://www.radlex.org/RID/#Replaced_by', 'RID5655')
+('RID6890', 'http://www.radlex.org/RID/#Replaced_by', 'RID20894')
+('RID9489', 'http://www.radlex.org/RID/#Replaced_by', 'RID9502')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_origin
+('RID2818', 'http://www.radlex.org/RID/#Has_origin', 'RID49280')
+('RID48967', 'http://www.radlex.org/RID/#Has_origin', 'RID49305')
+('RID43080', 'http://www.radlex.org/RID/#Has_origin', 'RID40071')
+******************
+
+Triple Example: http://www.radlex.org/RID/#language
+('http://www.radlex.org/RID/RadLex_Class750007', 'http://www.radlex.org/RID/#language', 'English')
+('http://www.radlex.org/RID/RadLex_Class500126', 'http://www.radlex.org/RID/#language', 'English')
+('http://www.radlex.org/RID/RadLex_Class500089', 'http://www.radlex.org/RID/#language', 'English')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Posterior_to
+('RID348', 'http://www.radlex.org/RID/#Posterior_to', 'RID38953')
+('RID49345', 'http://www.radlex.org/RID/#Posterior_to', 'RID48450')
+('RID348', 'http://www.radlex.org/RID/#Posterior_to', 'RID351')
+******************
+
+Triple Example: http://www.w3.org/2000/01/rdf-schema#comment
+('muscle_metaclass', 'http://www.w3.org/2000/01/rdf-schema#comment', 'For muscles, tendons, and ligaments')
+('Segment_Of', 'http://www.w3.org/2000/01/rdf-schema#comment', 'one tubular structure is a "segment of" another if it defines a part of that structure divided perpendicular to the axis of the tube.  This relation is often used to define the subparts of tubular structures, such as arteries, veins, and intestines.')
+('Member_Of', 'http://www.w3.org/2000/01/rdf-schema#comment', 'One structure is a "member of" a set of structures.  For example, the "liver" is a member of the "set of viscera of abdomen"')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Projects_To
+('RID6953', 'http://www.radlex.org/RID/#Projects_To', 'RID7054')
+('RID34082', 'http://www.radlex.org/RID/#Projects_To', 'RID25822')
+('RID34085', 'http://www.radlex.org/RID/#Projects_To', 'RID25983')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Has_Member
+('RID34297', 'http://www.radlex.org/RID/#Has_Member', 'RID5671')
+('RID6537', 'http://www.radlex.org/RID/#Has_Member', 'RID6544')
+('RID30971', 'http://www.radlex.org/RID/#Has_Member', 'RID237')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Regional_Part_Of
+('RID29989', 'http://www.radlex.org/RID/#Regional_Part_Of', 'RID29987')
+('RID22083', 'http://www.radlex.org/RID/#Regional_Part_Of', 'RID45376')
+('RID26962', 'http://www.radlex.org/RID/#Regional_Part_Of', 'RID27367')
+******************
+
+Triple Example: http://www.radlex.org/RID/#Insertion_of
+('RID40067', 'http://www.radlex.org/RID/#Insertion_of', 'RID40844')
+('RID49136', 'http://www.radlex.org/RID/#Insertion_of', 'RID2848')
+('RID39667', 'http://www.radlex.org/RID/#Insertion_of', 'RID44586')
+******************
