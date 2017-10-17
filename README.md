@@ -15,7 +15,7 @@ This script is to transform triples following the standard of SKOS(The Simple Kn
 
 SQL Database here has three tables - Concept, Broaders, Related.
 
-Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, TopConcept, NormPrefLabel
+The Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, TopConcept, NormPrefLabel
 
 ## One Radiology example in the Concept table:
 
