@@ -21,6 +21,8 @@ This script is to transform rdf,xrdf format data into csv and print out all the 
 
 This script is to transform triples following the standard of SKOS(The Simple Knowledge Organization System) and store graph info into a sql database. The script is initially intended to work on BioPortal's Radiology Lexicon(https://bioportal.bioontology.org/ontologies/RADLEX). However, these codes could be easily adapted to work on other ontology.
 
+SQL Database here has three tables - Concept, Broaders, Related.
 
+Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, TopConcept, NormPrefLabel
 
 
