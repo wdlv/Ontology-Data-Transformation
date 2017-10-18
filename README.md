@@ -1,5 +1,5 @@
 # Ontology Data Transformation
-***
+
 ## Environment:
 Python 3.6<br/>  pandas<br/>  sqlite3<br/> nltk<br/>  rdflib
 
@@ -16,7 +16,7 @@ This script is to transform triples following the standard of SKOS(The Simple Kn
 SQL Database here has three tables - Concept, Broaders, Related.
 
 The Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, TopConcept, NormPrefLabel
-
+***
 ## One Radiology example in the Concept table:
 
 ### Subject : http://www.radlex.org/RID/#RID3441
