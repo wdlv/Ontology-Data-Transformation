@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 13 15:22:42 2017
+
+@author: Hongwei Liu
+"""
+
 import rdflib
 import os
 import pandas as pd
