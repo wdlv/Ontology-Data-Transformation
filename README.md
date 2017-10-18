@@ -20,9 +20,10 @@ The Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes
 ## One Radiology example in the Concept table:
 
 ### Subject : http://www.radlex.org/RID/#RID3441
-
+```
 Original:
 ```
+
 |Predicate|Object|
 |---|---
 |http://www.radlex.org/RID/#Preferred_name|reflux esophagitis
@@ -37,10 +38,9 @@ Original:
 |http://www.radlex.org/RID/#UMLS_ID|C0014869
 |http://www.radlex.org/RID/#Definition|inflammation of the esophagus that is caused by the reflux of gastric juice with contents of the stomach and duodenum. [MeSH]
 |http://www.w3.org/1999/02/22-rdf-syntax-ns#type|http://www.w3.org/2002/07/owl#Class
+
 ```
-
 After extraction and transformation:
-
 ```
 |Concept Table|
 |---|---
@@ -50,6 +50,5 @@ AltLabel|Refluxösophagitis
 ScopeNotes|inflammation of the esophagus that is caused by the reflux of gastric juice with contents of the stomach and duodenum. [MeSH]
 TopConcept|RID0
 NormPrefLabel|reflux esophag
-```
 
 
