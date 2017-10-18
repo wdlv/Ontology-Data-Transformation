@@ -1,6 +1,6 @@
 # Ontology Data Transformation
-
-## Environment Requirement:
+***
+## Environment:
 Python 3.6<br/>  pandas<br/>  sqlite3<br/> nltk<br/>  rdflib
 
 ## Introduction
@@ -42,7 +42,7 @@ Original:
 ```
 After extraction and transformation:
 ```
-|Concept Table|
+|Concept Table| |
 |---|---
 ConceptURI|http://www.radlex.org/RID/#RID3441
 PrefLabel|reflux esophagitis
