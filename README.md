@@ -26,7 +26,7 @@ Predicates and their examples that the rddf2csv.py script extracted from a new o
 ***
 ## One Radiology example in the Concept table:
 ```
-### Subject : http://www.radlex.org/RID/#RID3441
+Subject : http://www.radlex.org/RID/#RID3441
 ```
 ### Original:
 
