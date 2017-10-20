@@ -7,15 +7,22 @@ Python 3.6<br/>  pandas<br/>  sqlite3<br/> nltk<br/>  rdflib
 
 ### 1. rdf2csv.py
 
-This script is to transform rdf,xrdf format data into csv and print out all the unique predicates along with their examples. In general, different ontology might use different predicates to represent the same relationship. So it is quite important for us to find out corresponding predicates for our desired ontology. Examples could be found in the Radiology Lexicon Predicates and Examples.txt
+This script is to transform rdf, xrdf format data into csv and print out all the unique predicates along with their examples. In general, different ontology might use different predicates to represent the same relationship. So it is quite important for people to map new predicates in a new ontology to their target ontology.
 
 ### 2. csv2sqlDB.py
 
 This script is to transform triples following the standard of SKOS(The Simple Knowledge Organization System) and store graph info into a sql database. The script is initially intended to work on BioPortal's Radiology Lexicon(https://bioportal.bioontology.org/ontologies/RADLEX). However, these codes could be easily adapted to work on other ontology.
 
+### 3. Database Info:
+
 SQL Database here has three tables - Concept, Broaders, Related.
 
 The Concept table has 6 attributes - ConceptURI, PrefLabel, AltLabel, ScopeNotes, TopConcept, NormPrefLabel
+
+### 4. Radiology Lexicon Predicates and Examples.txt:
+
+Predicates and their examples that the rddf2csv.py script extracted from a new ontology. People could quickly identify which predicates are their desired predicates based on those examples.
+
 ***
 ## One Radiology example in the Concept table:
 
@@ -40,7 +47,7 @@ Original:
 |http://www.w3.org/1999/02/22-rdf-syntax-ns#type|http://www.w3.org/2002/07/owl#Class
 
 ```
-After:
+Transformed:
 ```
 |Concept Table| |
 |---|---
