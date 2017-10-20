@@ -25,11 +25,10 @@ Predicates and their examples that the rddf2csv.py script extracted from a new o
 
 ***
 ## One Radiology example in the Concept table:
-
+```
 ### Subject : http://www.radlex.org/RID/#RID3441
 ```
-Original:
-```
+### Original:
 
 |Predicate|Object|
 |---|---
@@ -46,9 +45,9 @@ Original:
 |http://www.radlex.org/RID/#Definition|inflammation of the esophagus that is caused by the reflux of gastric juice with contents of the stomach and duodenum. [MeSH]
 |http://www.w3.org/1999/02/22-rdf-syntax-ns#type|http://www.w3.org/2002/07/owl#Class
 
-```
-Transformed:
-```
+
+### Transformed:
+
 |Concept Table| |
 |---|---
 ConceptURI|http://www.radlex.org/RID/#RID3441
