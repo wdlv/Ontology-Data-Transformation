@@ -1,7 +1,15 @@
 # Ontology Data Transformation
 
 ## Environment:
-Python 3.6<br/>  pandas<br/>  sqlite3<br/> nltk<br/>  rdflib
+Python 3.6
+
+pandas
+
+sqlite3
+
+nltk
+
+rdflib
 
 ## Introduction
 
