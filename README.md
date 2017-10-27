@@ -3,13 +3,13 @@
 ## Environment:
 Python 3.6
 
-pandas
+Pandas
 
-sqlite3
+Sqlite3
 
-nltk
+NLTK
 
-rdflib
+RDFLib
 
 ## Introduction
 
