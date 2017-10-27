@@ -15,7 +15,7 @@ rdflib
 
 ### 1. rdf2csv.py
 
-This script is to transform rdf, xrdf format data into csv and print out all the unique predicates along with their examples. In general, different ontology might use different predicates to represent the same relationship. So it is quite important for people to map new predicates in a new ontology to their target ontology.
+This script is to transform rdf, xrdf format data to csv and print out all the unique predicates along with their examples. In general, different ontology might use different predicates to represent the same relationship. So it is quite important for people to map new predicates in a new ontology to their target ontology.
 
 ### 2. csv2sqlDB.py
 
